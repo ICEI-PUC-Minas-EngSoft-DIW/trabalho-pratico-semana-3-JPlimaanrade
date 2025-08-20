@@ -10,7 +10,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: João Pedro Lima de Andrade.<br>
 - Matricula: 885317<br>
-- Proposta de projeto escolhida:
+- Proposta de projeto escolhida: 5. Temas e Conteúdos Associados.<br>
 - Breve descrição sobre seu projeto: Deepwoken Fan Hub será uma aplicação web criada para a comunidade de deepwoken,
  onde será possivel visualizar informações importantes sobre o jogo, e os jogadores 
  poderao interagir entre si de diversas maneiras.
