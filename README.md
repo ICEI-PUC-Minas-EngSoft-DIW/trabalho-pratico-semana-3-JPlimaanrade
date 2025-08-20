@@ -11,14 +11,14 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome:
 - Matricula:
 - Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Breve descrição sobre seu projeto: Deepwoken Fan Hub será uma aplicação web criada para a comunidade de deepwoken,
+ onde será possivel visualizar informações importantes sobre o jogo, e os jogadores 
+ poderao interagir entre si de diversas maneiras.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
